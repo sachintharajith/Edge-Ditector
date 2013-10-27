@@ -1,0 +1,16 @@
+C:\Work\Projects\HowToSamples_Repository\ImageEdgeDetection\ImageEdgeDetection\ImageEdgeDetection\bin\Debug\ImageEdgeDetection.exe
+C:\Work\Projects\HowToSamples_Repository\ImageEdgeDetection\ImageEdgeDetection\ImageEdgeDetection\bin\Debug\ImageEdgeDetection.pdb
+C:\Work\Projects\HowToSamples_Repository\ImageEdgeDetection\ImageEdgeDetection\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.MainForm.resources
+C:\Work\Projects\HowToSamples_Repository\ImageEdgeDetection\ImageEdgeDetection\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.Properties.Resources.resources
+C:\Work\Projects\HowToSamples_Repository\ImageEdgeDetection\ImageEdgeDetection\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.csproj.GenerateResource.Cache
+C:\Work\Projects\HowToSamples_Repository\ImageEdgeDetection\ImageEdgeDetection\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.exe
+C:\Work\Projects\HowToSamples_Repository\ImageEdgeDetection\ImageEdgeDetection\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.pdb
+E:\Academics\Semester 7\computer vision\Project\ImageEdgeDetection\bin\Debug\ImageEdgeDetection.exe
+E:\Academics\Semester 7\computer vision\Project\ImageEdgeDetection\bin\Debug\ImageEdgeDetection.pdb
+E:\Academics\Semester 7\computer vision\Project\ImageEdgeDetection\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Academics\Semester 7\computer vision\Project\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.MainForm.resources
+E:\Academics\Semester 7\computer vision\Project\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.Properties.Resources.resources
+E:\Academics\Semester 7\computer vision\Project\ImageEdgeDetection\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Academics\Semester 7\computer vision\Project\ImageEdgeDetection\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Academics\Semester 7\computer vision\Project\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.exe
+E:\Academics\Semester 7\computer vision\Project\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.pdb
